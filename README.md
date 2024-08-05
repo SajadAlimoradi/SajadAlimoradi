@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi there👋! My name is Sajad, and I'm a Django web developer. I specialize in building scalable and robust web applications using the Django framework.<br>One of the things I love most about web development is the opportunity to learn and grow every day. I'm always on the lookout for new technologies and frameworks, and I enjoy sharing my knowledge with others through blogging, speaking at conferences, and contributing to open-source projects.<br><br>
+Hi there👋! My name is Sajad, and I'm a Python/ Django web developer. I specialize in building scalable and robust applications using the Python/Django framework.<br>One of the things I love most about development is the opportunity to learn and grow every day. I'm always on the lookout for new technologies and frameworks, and I enjoy sharing my knowledge with others through blogging, speaking at conferences, and contributing to open-source projects.<br><br>
 <img align="center" src="https://user-images.githubusercontent.com/115968061/226141158-6b9116e4-0e8f-4e98-b488-470d77a2d440.svg">
 
 ## 🌐 Socials:
